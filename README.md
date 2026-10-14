@@ -11,6 +11,26 @@ An ESP32-based IoT energy monitoring system that measures real-time electrical p
 - Persists kWh and cost across power cycles using **EEPROM**
 - Hardware reset button to clear stored energy data
 
+
+## Pictures
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2371ba31-737d-4637-a445-8e50b776d7ff" width="80%" alt="IoT Energy Meter Setup" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c68f2a0e-6794-49a4-9302-207e6a54af32" width="80%" alt="Screenshot" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f9fe0d9-efe5-47ec-80df-4721842be644" width="80%" alt="IoT Energy Meter Hardware" />
+</p>
+
+## Circuit Diagram
+
+<img width="1122" height="622" alt="image" src="https://github.com/user-attachments/assets/406d39ec-8597-4998-a5fe-21b2e4b6f6ac" />
+
+
 ## Hardware
 
 | Component | Part | Pin |
